@@ -1,1 +1,1 @@
-# apring-boot-microservice-banking-application
+# spring-boot-microservice-banking-application
